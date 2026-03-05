@@ -1,0 +1,13 @@
+BEGINNING.
+
+XXXX
+
+BODY.
+
+MOVE 100 TO result.
+ADD 50 TO result.
+INPUT my-var.
+PRINT "Hello, JIBUC".
+PRINT "value: ".
+
+END.
