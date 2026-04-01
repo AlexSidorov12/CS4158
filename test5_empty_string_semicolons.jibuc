@@ -1,0 +1,6 @@
+BEGINNING.
+XXX Y-1.
+BODY.
+PRINT "";Y-1.
+PRINT "a;b";Y-1.
+END.

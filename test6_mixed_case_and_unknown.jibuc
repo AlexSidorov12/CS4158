@@ -1,0 +1,7 @@
+beginning.
+XXXX Var1-2.
+body.
+move 9 to Var1-2.
+add 1 TO Var1-2.
+print "done";Var1-2#.
+end.
